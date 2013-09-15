@@ -1,3 +1,1 @@
-module.exports = process.env.DHTMLPLUS_COV
-  ? require('./lib-cov/dhtmlplus')
-  : require('./lib/dhtmlplus');
+module.exports = process.env.DHTMLPLUS_COV ? require('./lib-cov/presenter') : require('./lib/presenter');

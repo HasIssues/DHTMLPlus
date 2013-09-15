@@ -1,7 +1,7 @@
 {
   "name": "dhtmlplus",
   "version": "0.0.3",
-  "description": "DHTMLPlus is a HTML Template Framework built for nodeJS. It supportsAzure and Standalone. It is designed to support as many websites as you need on a single listener.",
+  "description": "DHTMLPlus is a HTML Template Framework built for nodeJS. It supports Azure and Standalone sites. It is designed to support as many websites as you need on a single listener.",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"

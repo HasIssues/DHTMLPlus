@@ -1,6 +1,6 @@
 {
   "name": "dhtmlplus",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "DHTMLPlus is a HTML Template Framework built for nodeJS. It supportsAzure and Standalone. It is designed to support as many websites as you need on a single listener.",
   "main": "index.js",
   "scripts": {
@@ -11,6 +11,6 @@
   "author": "Mark Hebert",
   "license": "MIT",
   "bugs": { "url": "https://github.com/HasIssues/DHTMLPlus/issues" },
-  "dependencies": { "azure": "*", "cheerio": "*", "node-xml": "*" },
+  "dependencies": { "azure": "*", "cheerio": "*", "node-xml": "*", "node-uuid": "*", "fluent-ffmpeg": "*" },
   "engines": { "node": "*" }
 }
